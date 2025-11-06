@@ -12,7 +12,7 @@ import Analytics from "./components/Analytics";
 import Communication from "./components/Communication";
 import SubmissionForm from "./components/SubmissionForm";
 import Feedback from "./components/Feedback";
-import './app.css';
+import './App.css';
 
 
 function App() {
